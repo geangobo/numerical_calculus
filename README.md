@@ -64,7 +64,3 @@ Este repositório foi criado para acompanhar e consolidar os estudos em Cálculo
 ## Contribuição 🤝
 
 Contribuições são bem-vindas! Se você encontrar erros 🐛, tiver sugestões de melhorias ✨ ou quiser adicionar novos tópicos ➕, sinta-se à vontade para abrir uma issue 🐞 ou enviar um pull request 📤.
-
-## Licença 📜
-
-Este repositório está sob a licença [Insira a licença aqui, se aplicável]. 📝
